@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    text-decoration: none;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+}
+
+.header img{
+    width: 150px;
+}
+
+.middle{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.middle1{
+    display: flex;
+    justify-content: center;
+}
+
+.down{
+    display: flex;
+    justify-content: center;
+}
+
+.down p{
+    width: 17.5%;
+    color: #c1c1c1;
+    padding-top: 30px;
+}

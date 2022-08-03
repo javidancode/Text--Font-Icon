@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    text-decoration: none;
+}
+
+.header{
+    display: flex;
+    background-color: coral;
+    padding: 120px;
+    justify-content: center;
+}
+
+.middle{
+    display: flex;
+    padding-top: 20px;
+    justify-content: center;
+    gap: 20px;
+}
+
+.middle a{
+    color: green;
+}
+
+.down h1{
+    padding-top: 25px;
+}
+
+.down p{
+    padding-top: 15px;
+    color: red;
+}
+
+.down span{
+    display: flex;
+    padding-top: 15px;
+}
